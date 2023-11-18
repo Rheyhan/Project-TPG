@@ -1,6 +1,5 @@
+```C
 #include <iostream>
-
-
 int main(){
 
   std::cout<<"Hello World!";
@@ -8,3 +7,4 @@ int main(){
   return 0;
 
 }
+```
